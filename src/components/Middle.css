@@ -1,0 +1,22 @@
+/* .card{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.card-title{
+    padding-left: 40px;
+} */
+#price{
+    font-size: 20px;
+}
+#btn-category{
+    width:180px;
+    height:80px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-left: 5px;
+}
+#btn-category:hover{
+    background-color: black;
+    color: rgb(236, 233, 233);
+    font-size: larger;
+}
